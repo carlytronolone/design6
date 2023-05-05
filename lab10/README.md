@@ -404,7 +404,7 @@ Press CTRL+C to quit
 ```
 ![image](https://user-images.githubusercontent.com/117042826/236340774-92d8c1d9-b0e5-4619-8d61-c566b13a5c6b.png)
 
-## Gicen commands:
+## Given commands:
 ```
 $ curl "localhost:5000/txion" \
      -H "Content-Type: application/json" \
